@@ -1,15 +1,16 @@
-title: "Affiliates"
-email: wowthemesnet@gmail.com
-timezone: UTC
-baseurl: "/affiliates-jekyll-theme"
+title: "Carlos NoCode"
+email: contacto@carlosnocode.com
+timezone: America/Merida
+baseurl: ""  # ← importante: vacío para dominios personalizados
+url: "https://carlosnocode.com"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Sal
-paginate: 30
-disqus: 'demowebsite'
-locale: en_us
-lang: en_us
+author: carlos
+paginate: 10
+disqus: ''  # puedes poner tu identificador si vas a usar Disqus
+locale: es_MX
+lang: es_MX
 feed_items: 10
 feed_update_period: daily
 feed_update_frequency: 1
@@ -20,32 +21,24 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-ganalytics: UA-113961478-1
+ganalytics: ''  # agrega tu ID si vas a usar Google Analytics
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    avatar: 'assets/images/sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John
-    avatar: 'assets/images/john.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+  carlos:
+    name: Carlos
+    display_name: Carlos NoCode
+    avatar: 'assets/images/carlos.png'  # pon aquí tu imagen de perfil si tienes una
+    email: contacto@carlosnocode.com
+    web: https://carlosnocode.com
+    twitter: https://twitter.com/tuusuario
+    description: "Soy Carlos, creador de contenido sobre automatización, herramientas sin código e inteligencia artificial para negocios modernos."
 
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  instagram: https://www.instagram.com/tuusuario/
+  facebook: https://www.facebook.com/tuusuario
+  twitter: https://twitter.com/tuusuario
 
 # Plugins
 plugins: 
