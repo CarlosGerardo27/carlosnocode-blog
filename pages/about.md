@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About
-permalink: "/about/"
+title: Sobre mi
+permalink: "/sobre-mi/"
 image: assets/images/screenshot.png
 ---
 
-This website is a demonstration to see **Affiliates Jekyll theme** in action. 
+## Sobre mí
 
-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github. 
+Soy **Carlos Rocha**, ingeniero **LowCode / NoCode** con más de 7 años de experiencia desarrollando aplicaciones, sitios web y automatizaciones usando herramientas como **Webflow**, **WordPress**, **Zapier**, **Make**, **Supabase**, **Xano**, **Bubble**, **Airtable** y **n8n**.  
+En los últimos años también he incorporado **inteligencias artificiales** a mi caja de herramientas para crear soluciones aún más potentes.
 
-Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
-
-[Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
-
+Me encanta **resolver problemas** y ensamblar soluciones **prácticas y escalables** que ayuden a otros a ahorrar **tiempo, dinero** y multiplicar resultados.
