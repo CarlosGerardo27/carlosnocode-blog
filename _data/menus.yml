@@ -1,6 +1,6 @@
 # Top Menu
 topmenu:
-  - title: Home
+  - title: Inicio
     url: ""
 
   - title: Sobre mi
@@ -16,7 +16,7 @@ topmenu:
 
 # Footer Menu
 footermenu:
-  - title: Home
+  - title: Inicio
     url: ""
 
   - title: Privacy Policy
